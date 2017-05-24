@@ -259,5 +259,12 @@
     "categoryMotorcycle": "Motocicleta",
     "categoryBicycle": "Bicicleta",
     "categoryPerson": "Pessoa",
-    "categoryAnimal": "Animal"
+    "categoryAnimal": "Animal",
+    "categoryBoat": "Barco",
+    "categoryCrane": "Guindaste",
+    "categoryHelicopter": "Helicóptero",
+    "categoryOffroad": "OffRoad",
+    "categoryPickup": "Caminhonete",
+    "categoryTractor": "Trator",
+    "categoryVan": "Van"
 }
