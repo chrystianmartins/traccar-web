@@ -260,4 +260,11 @@
     "categoryBicycle": "Bicicleta",
     "categoryPerson": "Pessoa",
     "categoryAnimal": "Animal"
+    "categoryBoat": "Barco",
+    "categoryCrane": "Guindaste",
+    "categoryHelicopter": "Helicóptero",
+    "categoryOffroad": "OffRoad",
+    "categoryPickup": "Caminhonete",
+    "categoryTractor": "Trator",
+    "categoryVan": "Van"
 }
